@@ -1,5 +1,5 @@
-#Gaming Store Website
-A website built with HTML, CSS, and JavaScript for selling gaming products and accessories. The site uses Glider.js to create smooth, responsive carousels for product displays.
+# Gaming Store Website
+- A website built with HTML, CSS, and JavaScript for selling gaming products and accessories. The site uses Glider.js to create smooth, responsive carousels for product displays.
 
 # Features
 - Responsive Design: Optimized for different screen sizes using CSS flexbox and media queries.
